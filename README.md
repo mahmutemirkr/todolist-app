@@ -1,3 +1,3 @@
-# todolist-symfony-bootcamp-proje-mek
+# TodoList
 
 TodoList App | Symfony Bootcamp Proje
